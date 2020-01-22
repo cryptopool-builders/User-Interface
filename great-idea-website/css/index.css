@@ -64,3 +64,121 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body {
+	width: 80%;
+	margin: auto;
+}
+
+hr { 
+	margin: 1%;
+	width: 100%;
+	margin-top: 40px; 
+	margin-bottom: 40px 
+}
+
+.nav-bar {
+	/* border: 2px solid black; */
+	margin: 1%;
+	padding: 1%;
+	width: 100%;
+}
+
+.nav-bar a {
+	display: inline-block;
+	color: grey;
+	/* border: 2px solid black; */
+	margin: 2%;
+	align-content: center;
+}
+
+.logo {
+	margin: 1%;
+	float: right;
+}
+
+.upper-content {
+	/* border: 2px solid black; */
+	margin: 1%;
+	width: 100%;
+	color: red;
+}
+
+.upper-content h1 {
+	color: black;
+	font-size: 35px;
+	margin: 1px;
+}
+
+#button {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    width: 100px;
+	text-align: center;
+	vertical-align: -75px;
+}
+
+.upper-content-box-text {
+	/* border: 2px solid red; */
+	display: inline-block;
+	vertical-align: -150px;
+	margin-top: 190px;;
+	margin: 1%;
+	width: 48%;
+	min-width: 250px;
+	text-align: center;
+}
+
+.upper-content-box {
+	/* border: 2px solid blue; */
+	display: inline-block;
+	vertical-align: top;
+	margin 1%;
+	width: 48%;
+	min-width: 250px;
+	height: auto;
+
+}
+
+.mid-content-left {
+	/* border: 2px solid red; */
+	margin: 1%;
+	width: 48%;
+	display: inline-block;
+}
+
+.mid-content-right {
+	/* border: 2px solid red; */
+	margin: 1%;
+	width: 47%;
+	display: inline-block;
+}
+
+.middle-img {
+	/* border: 2px solid black; */
+	display: inline-block;
+	margin: 1%;
+	width: 100%;
+}
+
+.bottom-section {
+	/* border: 2px solid red; */
+	margin: 1%;
+	width: 31%;
+	display: inline-block;
+}
+
+.contact {
+	margin: 1%;
+	text-align: left;
+}
+
+footer {
+	margin: 1%;
+	width: 100%;
+	text-align: center;
+}
